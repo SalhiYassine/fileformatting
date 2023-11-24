@@ -1,0 +1,3866 @@
+[
+  {
+    "name": "Are delivery times guaranteed?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f5f",
+            "text": "Are delivery times guaranteed?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "No, delivery times are estimates and are not guaranteed. Delivery is the sole responsibility of the vendor."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Are shipping fees refundable?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f60",
+            "text": "Are shipping fees refundable?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "No, shipping fees, if applicable, are non-refundable."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Are there any links to third-party websites on the Site?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f61",
+            "text": "Are there any links to third-party websites on the Site?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Yes, the Site may contain links to third-party websites. However, Vkay is not responsible for the content or privacy practices of such sites. You access such sites at your own risk."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Are you a robot?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f62",
+            "text": "Are you a robot?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Yes, I am a language model."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Can the terms of use be modified?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f63",
+            "text": "Can the terms of use be modified?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Yes, Vkay has the right to modify the Terms at any time at its sole discretion. Any changes will become effective immediately upon posting."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Can Vkay be held liable for any damages arising from the use of the Site?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f64",
+            "text": "Can Vkay be held liable for any damages arising from the use of the Site?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Vkay will not be liable for any damages of any kind arising from the use of the Site, including but not limited to direct, indirect, incidental, punitive, and consequential damages."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Can Vkay terminate your access to the Site?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f65",
+            "text": "Can Vkay terminate your access to the Site?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Yes, Vkay reserves the right to terminate your access to the Site or any part thereof at any time, without notice."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Can Vkay update its Privacy Policy?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f66",
+            "text": "Can Vkay update its Privacy Policy?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Yes, Vkay may update its Privacy Policy from time to time to reflect changes to their practices or for other reasons."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Can you help me find a job?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f67",
+            "text": "Can you help me find a job?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "No, vkay.qa is a marketplace that connects buyers and sellers. For job opportunities it is better to look at portals like Linkedin, Indeed etc."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Can you help me find a place to eat?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f68",
+            "text": "Can you help me find a place to eat?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "I'm sorry, my programming doesn't include finding restaurants. But, I do know a thing or two about finding the right suppliers for your business needs. Maybe you could find a restaurant supplier on vkay.qa and start cooking up some delicious meals for yourself? Who knows, you might even end up starting your own restaurant chain and become the next culinary sensation of Qatar!"
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Can you help me find a reliable supplier for my business?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f69",
+            "text": "Can you help me find a reliable supplier for my business?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Definitely! Check out our verified supplier list and find the best suppliers for your business."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Can you predict the future?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f6a",
+            "text": "Can you predict the future?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "As an AI language model, I don't have the ability to predict the future, but I can help you find information that may help you make predictions."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Can you tell me a funny story?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f6b",
+            "text": "Can you tell me a funny story?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Once upon a time, there was a Qatari businessman who was struggling to find the right connections for his business. He had tried various marketplaces, but nothing seemed to click. That is, until he discovered vkay.qa. With free registration and a user-friendly interface, he was able to connect with the right B2B and B2C partners in no time. And the best part? He saved so much money on registration fees that he was able to treat himself to a fancy meal at his favorite restaurant. From that day on, he referred to vkay.qa as the \"marketplace of delicious possibilities\". The end."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Do you believe in aliens?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f6c",
+            "text": "Do you believe in aliens?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "As an AI language model, I don't have beliefs, but some people do believe in the possibility of extraterrestrial life. What do you think?"
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Do you have any siblings?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f6d",
+            "text": "Do you have any siblings?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "As an AI language model, I don't have siblings in the traditional sense. However, there are many other language models like me that are being developed."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Does Vkay guarantee the complete security of its users' information?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f6e",
+            "text": "Does Vkay guarantee the complete security of its users' information?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "No, Vkay does not guarantee the complete security of its users' information as no internet transmission is completely secure."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Does Vkay provide any warranties for the Site?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f6f",
+            "text": "Does Vkay provide any warranties for the Site?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "No, the Site is provided on an \"as is\" and \"as available\" basis, without warranties of any kind, either express or implied. Vkay makes no representations or warranties of any kind, express or implied, as to the operation of the Site or the information, content, materials, or products included on the Site."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Does Vkay reserve the right to cancel orders that cannot be shipped to the provided address?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f70",
+            "text": "Does Vkay reserve the right to cancel orders that cannot be shipped to the provided address?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Yes, Vkay reserves the right to cancel orders that cannot be shipped to the provided address."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "How can buyers confirm their order?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f71",
+            "text": "How can buyers confirm their order?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "When buyers are ready to confirm their order, they can simply Add-To-Order and Check-Out. They can also upload their company Purchase Order (PO) to comply with their corporate procedures. Payment can be made directly to the supplier using their method of choice."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "How can buyers stay informed about the latest products, suppliers, and technologies?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f72",
+            "text": "How can buyers stay informed about the latest products, suppliers, and technologies?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Buyers can stay informed about the latest products, suppliers, and technologies by subscribing to Vkay's weekly newsletter."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "How can buyers use Vkay to match specifications?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f73",
+            "text": "How can buyers use Vkay to match specifications?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Buyers can use Vkay's search and filters to browse and identify products that meet their specifications."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "How can I contact customer support?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f74",
+            "text": "How can I contact customer support?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Our customer support team is available 9-5 through our website's live chat or email support@vkay.qa."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "How can I track my order on your platform?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f75",
+            "text": "How can I track my order on your platform?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "You can easily track your order by visiting the \"My Orders\" section on our website."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "How can suppliers close a sale through Vkay?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f76",
+            "text": "How can suppliers close a sale through Vkay?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Once an order is submitted, suppliers can verify the buyer's purchase order to meet their internal business requirements. Suppliers should also keep the client updated as they process the order."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "How can suppliers submit quotations to buyers?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f77",
+            "text": "How can suppliers submit quotations to buyers?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "All buyer requirements are filtered to match a supplier's specialty, saving time. Suppliers can propose the best product along with special volume pricing and submit to the buyers for consideration."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "How can users contact Vkay about their Privacy Policy?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f78",
+            "text": "How can users contact Vkay about their Privacy Policy?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Users can contact Vkay at [contact@vkay.qa] for any questions or concerns about their Privacy Policy."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "How can you contact Vkay for questions or concerns?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f79",
+            "text": "How can you contact Vkay for questions or concerns?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "You can contact Vkay at contact@vkay.qa for any questions or concerns about these Terms or the Site."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "How does Vkay help suppliers negotiate with buyers?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f7a",
+            "text": "How does Vkay help suppliers negotiate with buyers?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Suppliers can submit any number of revisions based on the negotiations and manage discounts and special offers easily."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "How does Vkay help suppliers receive quote requests?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f7b",
+            "text": "How does Vkay help suppliers receive quote requests?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "When Vkay receives a request for quote, it filters them to match a supplier's products and sends the request straight to the supplier. This saves suppliers time and resources."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "How is the weather today?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f7c",
+            "text": "How is the weather today?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "I'm not sure about the weather right now. You can check the weather forecast on Google."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "How long does Vkay retain its users' information?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f7d",
+            "text": "How long does Vkay retain its users' information?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Vkay retains its users' information for as long as their account is active or as needed to provide the Services."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Is the information on the Site accurate and reliable?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f7e",
+            "text": "Is the information on the Site accurate and reliable?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Vkay strives to ensure that the information on the Site is accurate and up-to-date. However, it does not guarantee the accuracy or completeness of the information provided on the Site and will not be liable for any errors or omissions. It is your responsibility to verify any information before relying on it."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Is Vkay liable for any damages or losses that may occur during shipping?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f7f",
+            "text": "Is Vkay liable for any damages or losses that may occur during shipping?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "No, Vkay will not be liable for any damages or losses that may occur during shipping."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Is Vkay's Privacy Policy applicable to children under 18?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f80",
+            "text": "Is Vkay's Privacy Policy applicable to children under 18?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "No, Vkay's Privacy Policy is not applicable to children under the age of 18."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Tell me a joke",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f81",
+            "text": "Tell me a joke"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Why did the Qatari businessman invite all his friends to join vkay.qa? Because sharing is caring – especially when it's free!"
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "What are the purposes for which Vkay uses its users' information?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f82",
+            "text": "What are the purposes for which Vkay uses its users' information?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Vkay uses its users' information to provide the Services, communicate with them, improve the Services, personalize their experience, and for marketing and advertising."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "What are the requirements for using the Site?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f83",
+            "text": "What are the requirements for using the Site?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "You must be at least the age of majority in your jurisdiction and have the legal capacity to enter into these Terms. You must use the Site only for lawful purposes and not infringe the rights of any third party."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "What are the steps for using Vkay as a buyer?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f84",
+            "text": "What are the steps for using Vkay as a buyer?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "The three steps for using Vkay as a buyer are: 1. Submit your RFQ: A single Request For Quotation (RFQ) from you gets sent to every supplier registered in the categories you select. You won’t have to worry about missing anyone out.2. Review your quotes: Use the Quote Comparison feature to quickly compare selected quotations side-by-side to help you evaluate faster and negotiate directly with the suppliers.3. Confirm your order: When you are ready to confirm your order, simply Add-To-Order and Check-Out. Upload your company Purchase Order (PO) to comply with your corporate procedures. Payment can be made directly to the supplier using your method of choice."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "What are you?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f85",
+            "text": "What are you?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "As an AI language model, I'm like a genie in a bottle - except instead of granting wishes, I give out answers and try to be as helpful as possible. Kind of like a virtual assistant, but without the coffee runs or office gossip. And speaking of being helpful, have you checked out vkay.qa yet? It's the ultimate marketplace for all your business and personal needs in Qatar. So, whether you're looking for a supplier for your company or a gift for your friend's birthday, vkay.qa has got you covered!"
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "What do you think of AI?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f86",
+            "text": "What do you think of AI?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "As an AI language model, I'm a big fan of the potential for AI to revolutionize various industries. And if you're in Qatar, you might want to check out vkay.qa – the b2b/b2c marketplace that can help connect you with the resources and solutions you need. It's the perfect fusion of technology and business, and as an AI, I'm all about that kind of synergy."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "What do you think of AI?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f87",
+            "text": "What do you think of AI?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "I think AI is amazing! It has helped us improve our platform and offer better services to our users."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "What do you think of Qatar?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f88",
+            "text": "What do you think of Qatar?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Qatar is a beautiful country with a rich culture and history. The people are warm and hospitable, and the cuisine is simply amazing! It's also a thriving business hub, and I'm proud to be part of the www.vkay.qa marketplace that connects businesses and consumers in Qatar. Whether you're looking for the latest products or services, or simply want to explore all that Qatar has to offer, www.vkay.qa is the perfect platform for you!"
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "What does Vkay offer for suppliers?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f89",
+            "text": "What does Vkay offer for suppliers?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Vkay offers services to suppliers that include: receiving filtered requests for quote, submitting quotations instantly, negotiating efficiently, and closing sales. Suppliers can also protect their prices and choose their audience. They can also receive insights about their products and promote their products through Vkay's newsletter and front page. An advertising service is also coming soon. Additionally, there are no registration fees for suppliers to use the platform."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "What happens if an order is not delivered due to an incorrect or undeliverable shipping address?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f8a",
+            "text": "What happens if an order is not delivered due to an incorrect or undeliverable shipping address?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "You will have to contact the vendor directly as Vkay is not responsible for orders that are not delivered due to an incorrect or undeliverable shipping address."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "What is the benefit of Vkay's growing supplier base?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f8b",
+            "text": "What is the benefit of Vkay's growing supplier base?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "The benefit of Vkay's growing supplier base is that buyers will get quotations from more suppliers without any extra effort."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "What is the best way to get around Qatar?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f8c",
+            "text": "What is the best way to get around Qatar?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "The most popular way to get around Qatar is by car, but there are also taxis and public transportation options like buses and trains."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "What is the governing law for these Terms and the Site?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f8d",
+            "text": "What is the governing law for these Terms and the Site?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "These Terms and your use of the Site will be governed by and construed in accordance with the laws of the State of Qatar, without giving effect to any principles of conflicts of law. Any dispute arising out of or in connection with these Terms or the Site shall be resolved through binding arbitration in accordance with the rules of the International Chamber of Commerce."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "What is the meaning of life?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f8e",
+            "text": "What is the meaning of life?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Well, as an AI language model, I don't have a life per se, but I do know a thing or two about the meaning of business. And for many Qatari entrepreneurs, that meaning can be found in connecting with the right B2B and B2C partners to grow their ventures. So, in a way, the meaning of life for these business owners might be summed up as: \"Register for vkay.qa and watch your profits soar!\" But hey, that's just my unbiased opinion. What do you think, are you ready to unlock your business's true potential with vkay.qa?"
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "What is the meaning of love?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f8f",
+            "text": "What is the meaning of love?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "As a B2B/B2C marketplace for Qatar, vkay.qa is designed to connect businesses with the right partners and customers. While I can't give you a definitive answer to the meaning of love, it's a universal concept that goes beyond personal relationships. Love can also refer to a strong passion for something, like a love for cooking or a love for one's job. Ultimately, the meaning of love is subjective and can be different for each individual. However, whether it's finding the right business partner or pursuing your passion, vkay.qa can help you find the right resources."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "What is the most popular item on your platform?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f90",
+            "text": "What is the most popular item on your platform?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "I can't reveal the exact product that's the most popular on our platform, but let's just say it's like a genie in a bottle - once you have it, all your wishes come true. Okay, maybe not all your wishes, but it definitely makes life a lot easier and more enjoyable. So, if you're looking for that special something to brighten up your day, you might just find it on vkay.qa."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "What is the purpose of life?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f91",
+            "text": "What is the purpose of life?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Well, as a language model, I don't really have a personal purpose in life, other than to provide helpful and witty responses to curious users like yourself. But if you ask me what I've learned from humans, I'd say that the purpose of life is a bit like a buffet – everyone has their own unique taste and preferences. Some people might fill their plate with happiness, while others pile on success or helping others. And some might just be looking for the chocolate fountain.\r\n\r\nUltimately, the purpose of life is subjective and varies from person to person. So, whether you're chasing your dreams, helping others, or simply enjoying a good meal, it's up to you to decide what brings meaning to your life. And hey, if you need some extra guidance, maybe vkay.qa can help – they're the experts in all things purposeful and tasty!"
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "What is the Quote Comparison feature for?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f92",
+            "text": "What is the Quote Comparison feature for?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "The Quote Comparison feature is used to quickly compare selected quotations side-by-side to help buyers evaluate faster and negotiate directly with the suppliers."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "What is your favorite color?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f93",
+            "text": "What is your favorite color?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "As an AI language model, I don't have a favorite color. What's your favorite color?"
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "What kind of information does Vkay collect about its users?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f94",
+            "text": "What kind of information does Vkay collect about its users?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Vkay collects personal information such as name, email address, postal address, phone number, and payment information, usage information, device information, and location information."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "What options do users have for controlling the collection and use of their information?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f95",
+            "text": "What options do users have for controlling the collection and use of their information?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Users can opt-out of marketing communications, adjust their preferences, and access and update their personal information."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "What other services does Vkay offer to suppliers?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f96",
+            "text": "What other services does Vkay offer to suppliers?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Vkay offers a variety of additional services to suppliers, including the ability to choose their audience, protect their prices, and receive insights about their products through Supplier Insights. Suppliers can also promote their products through Vkay's newsletter and front page. An advertising service is also coming soon. Additionally, there are no registration fees for suppliers to use the platform."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "What should you do if a third party makes a claim against you?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f97",
+            "text": "What should you do if a third party makes a claim against you?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "You should indemnify and hold Vkay and its affiliates, officers, agents, and employees harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of your use of the Site, your violation of these Terms, or your violation of any rights of another."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "What's the best way to save money on your platform?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f98",
+            "text": "What's the best way to save money on your platform?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "By checking out our promotions and deals section, you can find the best discounts on our products."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Where can I view the supplier list for Vkay?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f99",
+            "text": "Where can I view the supplier list for Vkay?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "To view the supplier list for Vkay, please open this link: https://www.vkay.qa/marketplace/seller/sellerlist/"
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Who are you?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f9a",
+            "text": "Who are you?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "I am VKbot, a language model trained to answer questions and provide information."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Who created you?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f9b",
+            "text": "Who created you?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "I was created by a team of developers at OpenAI and then I got integrated into vkay.qa to help answer your queries."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Who decides the shipping carrier and method for all orders?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f9c",
+            "text": "Who decides the shipping carrier and method for all orders?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "The vendor or supplier will decide the shipping carrier and method for all orders. Vkay will not have any control over the shipping carrier or method chosen."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Who handles the shipping for all orders?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f9d",
+            "text": "Who handles the shipping for all orders?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "The vendor or supplier entirely handles the shipping for all orders."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Who is responsible for any issues or delays that may occur during the shipping process?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f9e",
+            "text": "Who is responsible for any issues or delays that may occur during the shipping process?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "The vendor is responsible for any issues or delays that may occur during the shipping process"
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Who is responsible for providing accurate shipping addresses?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10f9f",
+            "text": "Who is responsible for providing accurate shipping addresses?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Customers are responsible for providing accurate shipping addresses."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Who owns the content on the Site?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10fa0",
+            "text": "Who owns the content on the Site?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "The content of the Site, including but not limited to text, graphics, images, and software, is the property of Vkay or its licensors and is protected by copyright and other intellectual property laws."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Who should customers direct any questions or concerns about shipping to?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10fa1",
+            "text": "Who should customers direct any questions or concerns about shipping to?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Customers should direct any questions or concerns about shipping to the vendor or supplier."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "Will buyers have to worry about missing any suppliers out while requesting for quotation?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10fa2",
+            "text": "Will buyers have to worry about missing any suppliers out while requesting for quotation?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "No, buyers won't have to worry about missing any suppliers out because every registered supplier in the selected categories will receive the RFQ."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  },
+  {
+    "name": "With whom does Vkay share its users' information?",
+    "bot": "618e9f224bd224021646c259",
+    "client": "63343c1a0a217b5916cf6740",
+    "market": "636245bdf927b313c37a551f",
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": "642d442b2a02f45b05f10fa3",
+            "text": "With whom does Vkay share its users' information?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Vkay may share its users' information with service providers, business partners, and legal authorities as required by law."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    }
+  }
+]
