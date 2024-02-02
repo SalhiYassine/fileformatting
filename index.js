@@ -29,9 +29,9 @@ function adapter(data){
 const data = fs.readFileSync('input.json', 'utf8');
 
 const intents = transformQuestionAnswersToIntents({
-  groupId: '65bd411807b53a7a36680c41',
-  clientId: '64de34766ed4756241b004bc',
-  marketId: '64de34766ed4756241b004bd',
+  groupId: '',
+  clientId: '',
+  marketId: '',
   rowData: adapter(data)
 });
 
