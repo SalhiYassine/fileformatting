@@ -1,0 +1,4120 @@
+[
+  {
+    "name": "What is Wequity’s questionnaire assistant?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dbc"
+            },
+            "text": "What is Wequity’s questionnaire assistant?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Elevate your questionnaire-filing and disclosure tasks with Wequity's questionnaire assistant. Automate, simplify and enrich compliance/ESG/quality management forms with tailored data or insights sourced from your internal documents and knowledge bases. We will efficiently complete and return them to you promptly. We provide both white-glove (<72h - with quality checks) and instant questionnaire-filling."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.568Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.568Z"
+    }
+  },
+  {
+    "name": "How does the questionnaire assistant integrate with my browser?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dbd"
+            },
+            "text": "How does the questionnaire assistant integrate with my browser?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "The questionnaire assistant will soon offer a Chrome extension for direct integration with your browser, streamlining your workflow by removing the need to switch between apps. This feature is not yet available but is anticipated to launch soon. You will be able to download the extension as part of the onboarding process."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "Can I send a questionnaire via email?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dbe"
+            },
+            "text": "Can I send a questionnaire via email?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "The feature is not available yet, but it's coming soon! We're working hard to enhance your experience. Stay tuned for this exciting update. Thank you for your patience and support."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "What types of data sources can Wequity’s questionnaire assistant connect with?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dbf"
+            },
+            "text": "What types of data sources can Wequity’s questionnaire assistant connect with?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Today, you can upload files directly in PDF, CSV, PNG, Excel, and Word formats. You can also share a drive folder with your relevant documents to assistant@wequity.app, and your documents will be synchronized with your account. Soon, you'll have the capability to connect to Google Drive and OneDrive, further expanding your options for data sources, and to upload websites as data sources too. Keep in mind that hyperlinks and website files won't be accessible as data sources."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "What does “White-glove” mean?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dc0"
+            },
+            "text": "What does “White-glove” mean?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "A Wequity expert will review and pre-fill your questionnaire for enhanced accuracy and compatibility with the format of the questionnaire uploaded. The answer will be provided within max 72 hours."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "What does “instant” mean?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dc1"
+            },
+            "text": "What does “instant” mean?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Quickly processing your questionnaire with our automated system and get an answer within max. 2 hours. Self-verify for accuracy."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "How does the questionnaire assistant aid in supplier due diligence?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dc2"
+            },
+            "text": "How does the questionnaire assistant aid in supplier due diligence?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Submit your suppliers' due diligence questionnaires or surveys to us, along with any relevant documents, and we'll take care of the rest. Our service guarantees time efficiency and high accuracy. Choose between our instant service for swift processing or our white-glove option for tailored requirements, ensuring a solution that perfectly aligns with your needs."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "How secure is my data with Wequity?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dc3"
+            },
+            "text": "How secure is my data with Wequity?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Your data is securely handled with strict adherence to GDPR compliance and robust data protection measures. We are actively progressing towards ISO27001 certification to further enhance our commitment to data security. Rest assured that your information is handled with the utmost care and by the highest industry standards."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "Is Wequity GDPR compliant?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dc4"
+            },
+            "text": "Is Wequity GDPR compliant?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Wequity is GDPR compliant, ensuring the highest standards of data protection and privacy under the General Data Protection Regulation (GDPR). Your data's security and privacy are our top priorities, backed by strong measures and access controls."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "Is Wequity ISO certified for data security?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dc5"
+            },
+            "text": "Is Wequity ISO certified for data security?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "We are currently in the process of achieving ISO 27001 certification, underscoring our strong commitment to information security. This certification signifies our dedication to upholding the highest standards in safeguarding data."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "Are the auto-filled responses reliable?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dc6"
+            },
+            "text": "Are the auto-filled responses reliable?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Yes, each response is backed by a credible source and a comprehensive rationale for trust and accuracy."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "How much time can I save on form completion with Wequity?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dc7"
+            },
+            "text": "How much time can I save on form completion with Wequity?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "On average, we have found that we can save up to a 70% reduction in form completion time. This depends entirely on your knowledge base."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "What are some practical use cases of the AI assistant?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dc8"
+            },
+            "text": "What are some practical use cases of the AI assistant?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Practical use cases of questionnaires include ESG disclosure, KYC surveys, supplier's due diligence, CSRD gap analysis, etc."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "Is customer support available for Wequity users?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dc9"
+            },
+            "text": "Is customer support available for Wequity users?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "For any questions or queries, feel free to reach out to our chatbot, always ready to assist you. If you want to speak to a human, just ask and a member of our customer support team will answer your questions. To share product feedback and/or bugs, simply click the 'Share Feedback' button located at the bottom of the page. Detail the nature of your issue, and our team will promptly address it."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "Is the AI assistant suitable for businesses of all sizes?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dca"
+            },
+            "text": "Is the AI assistant suitable for businesses of all sizes?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Yes, AI assistant, is versatile and can cater to the needs of businesses of various sizes and sectors. All that matters is whether you get questionnaires and have content that we can use to pre-fill the questions for you."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "What is the process for updating my company’s profile on the platform?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dcb"
+            },
+            "text": "What is the process for updating my company’s profile on the platform?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Once you've successfully created an account at “console.wequity.app”, simply log in and navigate to the 'Settings' and 'Profile' sections to update your company details."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "How do I track the progress of my ESG and compliance form submissions through Wequity?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dcc"
+            },
+            "text": "How do I track the progress of my ESG and compliance form submissions through Wequity?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "After sending out a survey, you can easily track its progress by checking its status. 'In Progress' indicates that the survey is actively being worked on, while a 'Done' status signifies that the survey filling has been completed."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "Is there a feature to invite team members and collaborate with team members on the Wequity platform?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dcd"
+            },
+            "text": "Is there a feature to invite team members and collaborate with team members on the Wequity platform?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Inviting a team member is a straightforward process: navigate to settings, click on the \"Team\" tab, and provide the necessary details. The account admin will then receive an approval request, and upon acceptance, the team member will receive an email containing a login link."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "How can I set up alerts or notifications for upcoming compliance deadlines?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dce"
+            },
+            "text": "How can I set up alerts or notifications for upcoming compliance deadlines?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Once you've uploaded a survey or questionnaire, it will appear in your list of surveys. By clicking on the \"Deadline\" option, you have the ability to establish your own deadline and set up alerts to ensure timely completion."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "What is the procedure for submitting feedback or suggestions about the Wequity platform?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dcf"
+            },
+            "text": "What is the procedure for submitting feedback or suggestions about the Wequity platform?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "To provide feedback, click on the 'Share Feedback' button at the bottom of your page. Here, you can detail the nature of your problem and share your thoughts. Rest assured, our team will promptly address your concerns."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "What are the steps for uploading my questionnaire and survey to the platform?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dd0"
+            },
+            "text": "What are the steps for uploading my questionnaire and survey to the platform?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Uploading a questionnaire is a simple process. Just click on the \"Questionnaire\" tab and select \"Add New.\" From there, you can upload the questionnaire file you need, along with any pertinent documents. Additionally, you can choose between \"Instant\" or \"White-Glove\" processing options. Finally, click \"Upload\" to complete the process."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "Are there any pre-made survey templates available on the platform?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dd1"
+            },
+            "text": "Are there any pre-made survey templates available on the platform?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Our platform offers a variety of pre-designed survey templates, including CSRD, SFDR, GDPR Self-Assessment, Know Your Customer (KYC), and more. To view these, simply go to 'New Questionnaire,' click on 'Templates,' and browse through the available list of templates within the platform."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "Is there a demo or free questionnaire provided by Wequity for testing?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dd2"
+            },
+            "text": "Is there a demo or free questionnaire provided by Wequity for testing?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Upon the establishment of your account, you are entitled to 50 free questions for your use, and up to 50MB of knowledge base."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "Can the AI Assistant manage any type of questionnaire? Or are certain formats too complex?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dd3"
+            },
+            "text": "Can the AI Assistant manage any type of questionnaire? Or are certain formats too complex?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "For instant questionnaire types, our current support includes CSV and PDF formats. Additional formats such as DOCX, XLSX, JPEG, and more will be incorporated in future updates. For the white glove questionnaire type, any format is supported without the need for changes."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "In the platform, what does the \"data sources\" refer to?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dd4"
+            },
+            "text": "In the platform, what does the \"data sources\" refer to?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "The term \"data source\" encompasses all documents that have been uploaded by the company onto the platform, providing a comprehensive repository of such materials that can be used to pre-fill questionnaires."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "How can I create and customise my own data sources on the platform?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dd5"
+            },
+            "text": "How can I create and customise my own data sources on the platform?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "When you select \"Data Sources,\" you can choose which data you wish to upload onto the platform. Here, you'll find two options: \"Checklist\" and \"Files.\" a. Under the \"Checklist\" option, we offer a predefined checklist of the relevant documents to be uploaded, aligning with the questionnaire or survey requirements. You can add elements to this checklist based on your priorities and needs. b. Meanwhile, under the \"Files\" option, you can conveniently review all the files you've uploaded onto the platform and you can easily delete the files that are no longer required. In the future updates, you will have more options like “website” and “integrations”."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "Is it possible to change the interface language to a language of my choice?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dd6"
+            },
+            "text": "Is it possible to change the interface language to a language of my choice?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Located in the bottom left corner of the page, you'll find a language selection option, allowing you to switch between English and French as per your preference. If you want another language, feel free to share the feedback!"
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "How long does it typically take to receive feedback if I submit a complaint or feedback through the platform?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dd7"
+            },
+            "text": "How long does it typically take to receive feedback if I submit a complaint or feedback through the platform?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "You can expect to receive feedback on your filed complaint within maximum 48 hours (working days)."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "Can you explain the purpose and functionality of the Google Chrome extension in relation to surveys?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dd8"
+            },
+            "text": "Can you explain the purpose and functionality of the Google Chrome extension in relation to surveys?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "The Chrome extension serves as a practical plug-in tool designed to simplify and expedite the survey-filling process. Users can effortlessly upload their data sources directly into the extension, streamlining the completion of online surveys. Notably, users have the convenience of logging into the Chrome extension using their Wequity accounts. This integration enhances the overall survey experience by providing a seamless and efficient completion of surveys."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "If my company uses a different web browser, what should we do to ensure compatibility with Wequity?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dd9"
+            },
+            "text": "If my company uses a different web browser, what should we do to ensure compatibility with Wequity?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Our platform is designed to function smoothly on different browsers, including Chrome, Safari, and more. However, to make the most of our Chrome extension and enjoy a hassle-free experience, we recommend using Google Chrome. This ensures optimal performance and access to all the features the extension has to offer."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "Is there a data storage limit imposed on individual users?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dda"
+            },
+            "text": "Is there a data storage limit imposed on individual users?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Data storage for your knowledge base varies according to your subscription. The Basic and Light plans provide 50 MB each, the Simple plan offers 150 MB, the Pro plan includes 300 MB, and the Enterprise plan comes with 500 MB of storage for your knowledge base."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "What is the daily limit for the number of questions one can ask using the AI assistant?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77ddb"
+            },
+            "text": "What is the daily limit for the number of questions one can ask using the AI assistant?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "There is no daily limit, but rather a monthly limit. The question limit varies based on your subscription plan. For the Basic plan, it allows up to 100 questions per month. The Light plan accommodates up to 105 questions monthly, the simple plan supports up to 280 questions per month, the Pro plan supports up to 600 questions monthly, and the Enterprise plan offers a limit of up to 3500 questions per month."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "Is there an option to organise and sort questionnaires for easier access and management?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77ddc"
+            },
+            "text": "Is there an option to organise and sort questionnaires for easier access and management?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "To view your questionnaires, go to the \"Questionnaires\" tab on the platform. This section presents a list of all your questionnaires, showing key details like the name, type, and sender's information. They're automatically organised by the date they were created for straightforward navigation. Please note, currently, there is no option for personal sorting or organising them into folders."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "Are the questionnaires responded, based on the data sources uploaded?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77ddd"
+            },
+            "text": "Are the questionnaires responded, based on the data sources uploaded?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "The relevant documents provided by companies are used by our AI to accurately respond to the chosen surveys or questionnaires."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "How do I know If I have uploaded all the relevant documents?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dde"
+            },
+            "text": "How do I know If I have uploaded all the relevant documents?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "When you open the data sources on the platform, you can choose the checklist option, allowing you to confirm the presence of all necessary documents that have been uploaded."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "What are the available integration options for connecting data sources to the platform?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77ddf"
+            },
+            "text": "What are the available integration options for connecting data sources to the platform?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "In the coming days, you'll have the capability to seamlessly integrate your Google Drive and OneDrive with the platform's data sources. Although this feature is currently unavailable, it will be introduced soon."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "On average, how long does it take for a survey to be completed once requested?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77de0"
+            },
+            "text": "On average, how long does it take for a survey to be completed once requested?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "The completion timeframe for the survey varies depending on your chosen type. Opting for \"Instant\" ensures that the survey will be finished within a few hours while selecting \"White-Glove\" guarantees completion within 72 hours"
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "What steps can I take to ensure that my survey-filling request has been successfully received by the platform?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77de1"
+            },
+            "text": "What steps can I take to ensure that my survey-filling request has been successfully received by the platform?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Upon completion of a questionnaire and survey, as well as the upload of relevant documents, you will find the survey listed in the \"Questionnaire\" tab, accompanied by its status. This confirmation serves as an assurance that your survey has been successfully submitted."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "What should be done if I haven't received my survey within the estimated timeframe?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77de2"
+            },
+            "text": "What should be done if I haven't received my survey within the estimated timeframe?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "If your survey remains incomplete within the expected timeframe, simply click on \"Share Feedback\" located at the bottom of the page. From there, provide the necessary details regarding the nature of the issue, such as the survey not being completed within the expected timeframe. Our dedicated team will promptly address and resolve your concerns."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "How do I search for and locate specific documents within the platform?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77de3"
+            },
+            "text": "How do I search for and locate specific documents within the platform?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "To locate the specific file you need, access all your uploaded files on the platform through \"Data Sources\" and then click on \"Files.\" Your files are conveniently sorted by the latest date added and include details such as file name and description, making it easy to find the file you're looking for."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "Can you explain the purpose and functionality of the \"integrity hub\"?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77de4"
+            },
+            "text": "Can you explain the purpose and functionality of the \"integrity hub\"?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "The Integrity Hub's primary goal is to provide companies with a shareable link that allows their clients and stakeholders to send questionnaire requests or seek answers to their questions. While this feature is currently in development, it will be available soon."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "What are the pricing options for different questionnaire services on Wequity?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77de5"
+            },
+            "text": "What are the pricing options for different questionnaire services on Wequity?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Select the plan that best fits your needs with our flexible pricing structure. For those who prefer to pay as they go, we offer a per-question rate of €2.49. Our 'Light' subscription is perfect for those just starting, priced at €199 per month, which covers up to 105 questions per month and includes a knowledge base capacity of 50MB. For a full year, the Light plan is available at €4,790. Regular users can opt for the 'Simple' plan at €499 per month, allowing for up to 280 questions per month with a 150MB knowledge base, also available for an annual fee of €4,790. The 'Pro' plan is tailored for corporates and consultants, offering up to 600 questions per month with a 300MB knowledge base for €999 per month, or an annual option of €9,590. Large corporations can benefit from our 'Enterprise' plan at €4,999 per month, which includes 3,500 questions per month and a 500MB knowledge base, with an annual subscription costing €47,990. To get you started, your first questionnaire is on us, free of charge."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "Will my colleagues have their separate interfaces or share one with me?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77de6"
+            },
+            "text": "Will my colleagues have their separate interfaces or share one with me?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "When working with teammates, data and questionnaires are accessible to all members involved, promoting seamless collaboration. Despite this shared access, each individual will operate through a unique interface tailored to their use, maintaining a personal workspace within the collective framework."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "How can I confirm that my request has been accepted by my team members?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77de7"
+            },
+            "text": "How can I confirm that my request has been accepted by my team members?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Once you've invited a teammate, their email will appear in your team list, indicating that your teammate has successfully joined you."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "How can I refer a survey to a friend or colleague on the platform?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77de8"
+            },
+            "text": "How can I refer a survey to a friend or colleague on the platform?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "To refer a survey to a friend or colleague, you can easily invite them to join your team. Just navigate to the 'Settings' and then to the 'Team' section, where you can send them an invitation. Once they accept, they will have full access to the shared questionnaires and data."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "How can I initiate the password reset process if I've forgotten my password?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77de9"
+            },
+            "text": "How can I initiate the password reset process if I've forgotten my password?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "If you need to reset your password, simply click on the \"Forgot Password\" link. Once you do, enter your login email in the provided field. Shortly after, you'll receive an email containing detailed instructions on how to successfully reset your password. Follow these steps to regain access to your account."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "What is the level of accuracy typically associated with the answers provided by the platform?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dea"
+            },
+            "text": "What is the level of accuracy typically associated with the answers provided by the platform?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Every question on our platform is accompanied by a confidence level, which serves to indicate the likely accuracy of the provided answer. The confidence levels are defined as follows: High confidence suggests there is a strong likelihood that the information is accurate and reliable. Average confidence indicates a moderate level of certainty; the information is likely correct but should be verified. Low confidence implies limited assurance; the information may not be fully accurate or complete."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "Can questionnaire responses be provided in a language of my choice?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77deb"
+            },
+            "text": "Can questionnaire responses be provided in a language of my choice?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "The language of the response to a questionnaire aligns with the language in which the questionnaire is framed. Moreover, a remarkable feature we offer allows you to translate your answers into any language of your choice. Once the survey is completed, simply open the survey, and next to each answer, there is an option to \"Ask AI.\" Utilize this feature to request a translation of the answer into your preferred language."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "What steps should I take if I reach my data limit on the platform?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dec"
+            },
+            "text": "What steps should I take if I reach my data limit on the platform?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Addressing the data limit issue comes with various solutions. First, consider uploading compressed files to optimise space usage. Additionally, regularly review and delete unnecessary files that are no longer required. If you still surpass your data storage plan, the final option is to purchase a new plan to accommodate more data storage."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "What should be my course of action when I've reached the limit for creating new questionnaires on the platform?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77ded"
+            },
+            "text": "What should be my course of action when I've reached the limit for creating new questionnaires on the platform?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "If you've reached the maximum question limit, acquiring a new plan is necessary to extend your question capacity."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "What is the difference in the functionality of “AI search” and “Ask AI”?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77dee"
+            },
+            "text": "What is the difference in the functionality of “AI search” and “Ask AI”?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "The \"AI search\" feature allows users to search their entire knowledge base, including previous answers, for similar content and potential answers. On the other hand, \"Ask AI\" empowers users to enhance their responses by submitting custom prompts like 'Translate to Chinese' or 'Expand on this.’ While this feature is currently in development, it will be available soon."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "What criteria or factors should my company consider when determining the most suitable subscription plan for our needs on this platform?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77def"
+            },
+            "text": "What criteria or factors should my company consider when determining the most suitable subscription plan for our needs on this platform?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Your choice of plan should be based on your questionnaire volume and data storage requirements. For those who prefer to pay as they go, we offer a per-question rate of €2.49. Our 'Light' subscription is perfect for those just starting, priced at €199 per month, which covers up to 105 questions per month and includes a knowledge base capacity of 50MB. For a full year, the Light plan is available at €4,790. Regular users can opt for the 'Simple' plan at €499 per month, allowing for up to 280 questions per month with a 150MB knowledge base, also available for an annual fee of €4,790. The 'Pro' plan is tailored for corporates and consultants, offering up to 600 questions per month with a 300MB knowledge base for €999 per month, or an annual option of €9,590. Large corporations can benefit from our 'Enterprise' plan at €4,999 per month, which includes 3,500 questions per month and a 500MB knowledge base, with an annual subscription costing €47,990. To get you started, your first questionnaire is on us, free of charge."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "How can I verify that I have uploaded all the required and necessary documents?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77df0"
+            },
+            "text": "How can I verify that I have uploaded all the required and necessary documents?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "To ensure you've uploaded all the necessary documents, follow these steps: a. Visit the \"Data Sources\" section. b. Click on the \"Checklist.\" c. Review the checklist to confirm that all relevant documents have been included."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "Is there an available checklist for tracking uploaded documents, and if so, how does it function?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77df1"
+            },
+            "text": "Is there an available checklist for tracking uploaded documents, and if so, how does it function?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Within the \"Data Source\" section, you'll find a checklist that allows you to verify and select the essential documents that are relevant and must be uploaded. This helps ensure comprehensive inclusion."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "What are the steps for adding or uploading a relevant file to the system?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77df2"
+            },
+            "text": "What are the steps for adding or uploading a relevant file to the system?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "Uploading your relevant files is a straightforward process. Visit the \"Data Sources\" section, go to \"Files,\" and use the \"Add\" button to upload your necessary documents."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "What procedures should be followed to effectively manage my subscriptions?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77df3"
+            },
+            "text": "What procedures should be followed to effectively manage my subscriptions?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "To effectively manage your subscriptions, please utilise the Stripe portal, accessible through the 'Billing' tab located within the 'Settings' section of the platform."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "How to manage updated files and files that are outdated?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77df4"
+            },
+            "text": "How to manage updated files and files that are outdated?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "In the 'Data Sources' tab of the platform, you can view all uploaded files by selecting 'Files.' Should you come across any outdated or unnecessary files, they can be easily removed by clicking the 'Delete' button located next to each file. This feature allows for efficient management and organization of your data."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  },
+  {
+    "name": "How does the assistant know from which documents it should extract information?",
+    "groupId": {
+      "$oid": "65bd411807b53a7a36680c41"
+    },
+    "client": {
+      "$oid": "64de34766ed4756241b004bc"
+    },
+    "market": {
+      "$oid": "64de34766ed4756241b004bd"
+    },
+    "content": {
+      "en": {
+        "isLive": true,
+        "utterances": [
+          {
+            "_id": {
+              "$oid": "65bd444498ede0d5d5f77df5"
+            },
+            "text": "How does the assistant know from which documents it should extract information?"
+          }
+        ],
+        "responses": [
+          [
+            {
+              "text": {
+                "content": "During the questionnaire creation process, you can select the relevant documents either from the list of existing files or by uploading new ones. Your questionnaire will then be generated based on the selected files, ensuring accuracy and relevance."
+              }
+            }
+          ]
+        ]
+      },
+      "el": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "de": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "es": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "fr": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "pt": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      },
+      "zh-cn": {
+        "isLive": false,
+        "utterances": [],
+        "responses": []
+      }
+    },
+    "isRemoved": false,
+    "createdAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    },
+    "updatedAt": {
+      "$date": "2024-02-02T19:36:36.569Z"
+    }
+  }
+]
